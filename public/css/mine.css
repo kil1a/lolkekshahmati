@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+.VisualComponent{
+    border-width: 0 !important;
+    border-radius: 70%;
+    background-color: #4e4e4e;
+    margin: 5px;
+}

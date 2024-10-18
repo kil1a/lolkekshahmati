@@ -4,10 +4,10 @@ import PlayerInfo from "./Checkers/PlayerInfo.js";
 import "./Checkerss.css";
 
 function Checkers() {
-    return [<div className="Checkers">
+    return <div className="Checkers">
         <EnemyInfo/>
         <Game/>
         <PlayerInfo/>
-    </div>]
+    </div>;
 }
     export default Checkers;
